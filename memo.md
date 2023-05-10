@@ -79,3 +79,24 @@ OKRは、目標とキーリザルトを組み合わせた目標管理の手法�
 # marp x GHA x GHP
 - [MarpでGithubActionsを使ってGithubPagesにスライドを公開してみる - komura-c.log](https://komura-c.hatenablog.com/entry/2022/07/21/032248)
 
+
+---
+
+# MQTT
+
+---
+
+- [AWS IoT Core MQTT5 入門](https://pages.awscloud.com/rs/112-TZM-766/images/RECAP2023-IoT_2_MQTT5_reCap.pdf)
+
+---
+
+# MANAGEMENT
+
+---
+### Books
+
+- [HIGH OUTPUT MANAGEMENT(ハイアウトプット マネジメント) 人を育て、成果を最大にするマネジメント](https://www.amazon.co.jp/dp/4822255018)
+
+---
+# OpenAPI
+---
