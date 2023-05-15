@@ -77,8 +77,7 @@ OKRは、目標とキーリザルトを組み合わせた目標管理の手法�
 ---
 
 # marp x GHA x GHP
-- [MarpでGithubActionsを使ってGithubPagesにスライドを公開してみる - komura-c.log](https://komura-c.hatenablog.com/entry/2022/07/21/032248)
-
+- [Github ActionsによるGithub Pagesのデプロイを試してみた](https://zenn.dev/kurehajime/articles/27b46f352af416)
 
 ---
 
