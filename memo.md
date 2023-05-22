@@ -328,6 +328,18 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 - [A-1.BASE_テックリード候補 - BASE株式会社](https://herp.careers/v1/base/r_2JbI0ErHRt)
 
 ---
+# CTO
+---
+# 若狭建(Ken Wakasa) - メルカリジャパン(2021年7月~)
+  - 東京大学大学院工学系研究科情報工学専攻修了。Sun Microsystems、Sonyでハードウエア（携帯電話・AV機器）関連のソフトウエア開発を担当。GoogleにてGoogle Mapsの開発に従事した後、2010年以降、Android OS開発チームでフレームワーク開発に携わる。Appleでのシステムソフトウエア開発、LINEでのLINEメッセンジャークライアント開発統括を経て、19年8月、Director of Client Engineeringとしてメルカリに参画。21年7月、執行役員 メルカリジャパンCTOに就任
+  - [新メルカリCTOが就任100日後に感じたのは…？開発組織の今と、自身に課した役割 | mercan (メルカン)](https://mercan.mercari.com/articles/30768/)
+
+---
+# 藤倉成太(Shigemoto FUJIKURA) - Sansan株式会社 (2018年~)
+  - 株式会社オージス総研でシリコンバレーに赴任し、現地ベンチャー企業との共同開発事業に携わる。帰国後は開発ツールなどの技術開発に従事する傍ら、金沢工業大学大学院工学研究科知的創造システム専攻を修了。2009年にSansan株式会社へ入社。現在はCTOとして全社の技術戦略を指揮する
+  - 「CTOとしては全社的な技術の方向性や戦略を考えています」 - [Sansan CTO 藤倉成太「一度身につけておけば、武器になる」｜MASTER OF ENGINEER - |テックアカデミー](https://techacademy.jp/master-of-engineer/fujikura)
+
+---
 # ファイナンス
 ---
 
