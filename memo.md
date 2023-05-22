@@ -337,7 +337,7 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 ---
 # 藤倉成太(Shigemoto FUJIKURA) - Sansan株式会社 (2018年~)
   - 株式会社オージス総研でシリコンバレーに赴任し、現地ベンチャー企業との共同開発事業に携わる。帰国後は開発ツールなどの技術開発に従事する傍ら、金沢工業大学大学院工学研究科知的創造システム専攻を修了。2009年にSansan株式会社へ入社。現在はCTOとして全社の技術戦略を指揮する
-  - 「CTOとしては全社的な技術の方向性や戦略を考えています」 - [Sansan CTO 藤倉成太「一度身につけておけば、武器になる」｜MASTER OF ENGINEER - |テックアカデミー](https://techacademy.jp/master-of-engineer/fujikura)
+  - 「CTOとしては全社的な技術の方向性や戦略を考えています。VPoEとしてはエンジニアの組織づくりや評価、育成の定義、仕組み作りをしてます。」 - [Sansan CTO 藤倉成太「一度身につけておけば、武器になる」｜MASTER OF ENGINEER - |テックアカデミー](https://techacademy.jp/master-of-engineer/fujikura)
 
 ---
 # ファイナンス
