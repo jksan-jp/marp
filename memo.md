@@ -392,3 +392,10 @@ https://twitter.com/maslow_design/status/1658230782479958016?s=46&t=ccoVMyRUMj2S
 ---
 
 - [CyberAgent AI事業本部MLOps研修応用編 - Speaker Deck](https://speakerdeck.com/nsakki55/cyberagent-aishi-ye-ben-bu-mlopsyan-xiu-ying-yong-bian)
+
+---
+# Blockchain
+---
+# オンチェーン・オフチェーン
+![height:300](https://user-images.githubusercontent.com/99370665/240865376-52e888e2-a008-421c-ba4f-22131d277288.png)
+> https://twitter.com/miyata_17_/status/1656644754527105030?s=20
