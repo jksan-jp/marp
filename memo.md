@@ -356,7 +356,7 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 ### EM vs TL
 ---
 ### EM vs TL
-![Difference in Role and Responsibility between TL and EM](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3C8gFD96OADLCWRBfYKy4Q.png)
+![height:300](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3C8gFD96OADLCWRBfYKy4Q.png)
 
 ---
 ### EM vs TL
@@ -370,7 +370,7 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 ---
 ### EM vs TL
 
-![height:200](https://user-images.githubusercontent.com/99370665/240821036-e9902719-a232-4cc7-bdba-d207721b120f.png)
+![height:300](https://user-images.githubusercontent.com/99370665/240821036-e9902719-a232-4cc7-bdba-d207721b120f.png)
 > https://twitter.com/holey_dev/status/1661294446489767937?s=20
 
 ---
