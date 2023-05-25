@@ -351,4 +351,13 @@ Price Book-Value Ratio(株価自己資本倍率)
 https://twitter.com/maslow_design/status/1658230782479958016?s=46&t=ccoVMyRUMj2SiZH8EmhMdg
 
 
+---
+# MLOps
+---
+### MLOps
+- 「MLOps」とは、機械学習（ML）と、運用（Operations）を組み合わせた造語で、優れた機械学習システムを実現するための手法や概念を表します。 機械学習を取り入れたシステムの開発・運用を円滑に行い、迅速かつ安定したサービスをユーザに届けることができるため、近年注目を集めています
+> [MLOpsとは｜必要性やDevOpsとの違い、ツール・フレームワーク、導入課題を解説 | スキルアップAI | AI人材育成・開発組織の構築支援](https://www.skillupai.com/blog/about-mlops/#:~:text=%E3%80%8CMLOps%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81%E6%A9%9F%E6%A2%B0,%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
 
+---
+
+- [CyberAgent AI事業本部MLOps研修応用編 - Speaker Deck](https://speakerdeck.com/nsakki55/cyberagent-aishi-ye-ben-bu-mlopsyan-xiu-ying-yong-bian)
