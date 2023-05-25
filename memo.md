@@ -354,7 +354,13 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 
 ---
 ### EM vs TL
-- [Why an Engineering Manager Should Not Review Code | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66)
+![Difference in Role and Responsibility between TL and EM](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3C8gFD96OADLCWRBfYKy4Q.png)
+- マネージャーはテクニカルリードにチームのテクニカルリーダーシップを委任し、深い技術的な背景を忘れてバスから降りるべきではありません。ただし、管理職は基本的に方針の仕事であり、マネージャーは境界を尊重すべきです。それ以外の場合はマイクロマネジメントであり、信頼関係が崩れます。
+- テクニカルリードは、キャリアやチームの成長、コミュニケーション、調整作業をエンジニアリングマネージャーに委任し、アーキテクチャや技術的な選択、技術的な方向性、および実行の推進に集中するべきです。
+- ただし、このマネージャーとリードの区別は、チームが少なくとも4人以上の規模になるまで存在する必要はありません。4人以上のチームの規模に達した後、役割が分かれ、エンジニアリングマネージャーはチームに焦点を当て、テクニカルリードとの信頼パートナーシップを築くべきです。
+- エンジニアリングマネージャーの役割は、チームの成果を最大化するために、適切なリソースやサポートを提供することにあります。コードレビューは、テクニカルリードやチーム内のエンジニアに委任されるべきです。それによって、メンバーの成長を促進し、エンジニアリングマネージャーはより大局的な視点と戦略的なリーダーシップに集中できるようになります。
+[Why an Engineering Manager Should Not Review Code | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66)
+
 
 ---
 # ファイナンス
