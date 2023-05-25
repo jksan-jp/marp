@@ -369,7 +369,8 @@ CTOは、企業や組織全体の技術戦略を策定し、技術的な視点�
 
 ---
 ### EM vs TL
-![](https://user-images.githubusercontent.com/99370665/240821036-e9902719-a232-4cc7-bdba-d207721b120f.png)
+
+![height:200](https://user-images.githubusercontent.com/99370665/240821036-e9902719-a232-4cc7-bdba-d207721b120f.png)
 > https://twitter.com/holey_dev/status/1661294446489767937?s=20
 
 ---
